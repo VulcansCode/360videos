@@ -1,0 +1,51 @@
+## Description
+Briefly describe the issue.
+Include a [reduced test case](https://css-tricks.com/reduced-test-cases/).
+
+## Steps to reproduce
+Explain in detail the exact steps necessary to reproduce the issue.
+
+1.
+2.
+3.
+
+## Results
+### Expected
+Please describe what you expected to see.
+
+### Actual
+Please describe what actually happened.
+
+### Error output
+If there are any errors at all, please include them here.
+
+## Additional Information
+Please include any additional information necessary here. Including the following:
+
+### versions
+#### videojs
+what version of videojs does this occur with?
+
+#### browsers
+what browser are affected?
+
+#### OSes
+what platforms (operating systems and devices) are affected?
+
+### plugins
+are any videojs plugins being used on the page? If so, please list them below.
+## Description
+Please describe the change as necessary.
+If it's a feature or enhancement please be as detailed as possible.
+If it's a bug fix, please link the issue that it fixes or describe the bug in as much detail.
+
+## Specific Changes proposed
+Please list the specific changes involved in this pull request.
+
+## Requirements Checklist
+- [ ] Feature implemented / Bug fixed
+- [ ] If necessary, more likely in a feature request than a bug fix
+  - [ ] Unit Tests updated or fixed
+  - [ ] Docs/guides updated
+- [ ] Reviewed by Two Core Contributors
+
